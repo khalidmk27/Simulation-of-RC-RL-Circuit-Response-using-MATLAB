@@ -26,7 +26,7 @@ This project simulates the transient response of *RC (Resistor-Capacitor)* and *
 ### Usage
 
 1. Clone the repository:
-   bash
+   
    `git clone https://github.com/khalidmk27/Simulation-of-RC-RL-Circuit-Response-using-MATLAB.git`
    
 2. Open MATLAB and navigate to the folder where the script is located.
