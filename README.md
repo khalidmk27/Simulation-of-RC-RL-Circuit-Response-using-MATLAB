@@ -81,7 +81,3 @@ To validate the implementation, run the provided test cases in MATLAB. The tests
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
