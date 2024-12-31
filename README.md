@@ -50,9 +50,9 @@ This project simulates the transient response of *RC (Resistor-Capacitor)* and *
 
 The voltage across the capacitor \(V_C(t)\) in an RC circuit is given by:
 
-\[
+~ \[
 V_C(t) = V_0 e^{-\frac{t}{RC}}
-\]
+\] ~
 
 Where:
 - \(V_0\) is the initial voltage across the capacitor,
